@@ -32,7 +32,7 @@ Type help to see the list of commands and how to use them.
 - Place
 ## Authors
 
-- [OMENA EGBUSIRI](http://www.linkedin.com/in/omena-egbusiri-56a9099b)
+- [OMENA EGBUSIRI](https://github.com/OILEGA)
 - [AYUBA SHAKIRU](get2mena@gmail.com)
 ## Branches and Pull Requests
 
