@@ -32,8 +32,8 @@ Type help to see the list of commands and how to use them.
 - Place
 ## Authors
 
-- OMENA EGBUSIRI (get2mena@gmail.com)
-- AYUUBA SHAKIRU (get2mena@gmail.com)
+- [OMENA EGBUSIRI](get2mena@gmail.com)
+- [AYUBA SHAKIRU](get2mena@gmail.com)
 ## Branches and Pull Requests
 
 We are using GitHub to collaborate on this project. To contribute to the project, please create a new branch for your changes and submit a pull request. We will review your changes and merge them into the main branch if they are approved.
